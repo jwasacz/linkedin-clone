@@ -8,15 +8,13 @@ import Feed from "./Feed";
 function App() {
   return (
     <div className="app">
-      {/*Header*/}
       <Header />
 
-      {/*App Body  */}
+    
       <div className="app-body">
         <Sidebar />
         <Feed/>
-        {/* Feed */}
-        {/* Widgets */}
+       {/* Widgets */}
       </div>
     </div>
   );
