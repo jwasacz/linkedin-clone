@@ -8,6 +8,9 @@
 
 .app-body{
     display: flex;
-    justify-content: left;
+    justify-content: center;
     width: 100%;
+    margin-top: 35px;
+    margin-left: 20px;
+    margin-right: 20px;
     }
